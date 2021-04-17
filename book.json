@@ -1,0 +1,57 @@
+[{
+                "id":"345",
+                "img":"image1.jpg",
+		"name": "Harry Potter",
+		"price": "890",
+		"language": "English",
+		"author": "J.K. ROWLING"
+	},
+	{
+                "id":"789",
+                "img":"image2.jpg",
+		"name": "Mice and Men",
+		"price": "567",
+		"language": "English",
+		"author": "JOHN STEINBECK"
+	},
+	{       
+                "id":"900",
+                "img":"image3.jpg",
+		"name": "Esperanza Rising",
+		"price": "900",
+		"language": "English",
+		"author": "PAM MUNOZ RYAN"
+	},
+	{
+      "id":"877",
+     "img":"image4.jpg",
+		"name": "WORLD WAR",
+		"price": "490",
+		"language": "English",
+		"author": "MAX BROOKS"
+	},
+        {
+                "id":"781",
+                "img":"image5.jpg",
+		"name": "BARKICHI PATRE",
+		"price": "500",
+		"language": "MARATHI",
+		"author": "MADHVI BHATT"
+	},
+        {
+                "id":"999",
+                "img":"image6.jpg",
+		"name": "ATANK",
+		"price": "700",
+		"language": "MARATHI",
+		"author": "SHRINIVAS NAVELKAR"
+	},
+        {
+                "id":"333",
+                "img":"image7.jpg",
+		"name": "DHAMI",
+		"price": "1000",
+		"language": "MARATHI",
+		"author": "VIJAYA YADAV"
+	}
+]
